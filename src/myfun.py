@@ -5,3 +5,6 @@ def mysum(array):
 
 def myprod(array):
     return np.prod(array)
+
+def mysort(array):
+    return np.sort(array)
